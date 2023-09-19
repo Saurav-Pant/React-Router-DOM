@@ -1,5 +1,3 @@
-
-```markdown
 # React Router DOM Example
 
 This is a simple example project demonstrating how to use React Router DOM for navigation in a React application.
